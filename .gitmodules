@@ -1,0 +1,3 @@
+[submodule "lib/ABFBeacon"]
+	path = lib/ABFBeacon
+	url = https://github.com/access-company/ABFBeacon.git
